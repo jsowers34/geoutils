@@ -9,7 +9,7 @@ Download from https://github.com/jsowers34/geoutils
 
 ## Usage
 
-    $ java -jar geoutils-0.1.0-standalone.jar [args]
+    $ java -jar geoutils-0.1.0.jar [args]
 
 
 ## Examples
