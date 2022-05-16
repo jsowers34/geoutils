@@ -5,7 +5,7 @@ A small library of geophysical/navigational utilities.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/jsowers34/geoutils
 
 ## Usage
 
